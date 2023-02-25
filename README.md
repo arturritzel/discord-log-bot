@@ -9,5 +9,5 @@ Não esqueça de alterar as variáveis declaradas no arquivo ```.env``` com seus
   - mudança de apelido
   - adição/remoção de cargo
   - edição/exclusão de mensagem
-  - ~~banimento/expulsão de membro~~ // outdate: precisa de hotfix
-  - ~~entrada/saída de membro~~ // outdate: precisa de hotfix
+  - ~~banimento/expulsão de membro~~ // precisa de hotfix
+  - ~~entrada/saída de membro~~ // precisa de hotfix
